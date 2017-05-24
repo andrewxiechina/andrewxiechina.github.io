@@ -23,6 +23,14 @@ author: Andrew Xie
 - moment
 
 ### TODOS
+ - 获取列表页，详细内容页信息
+ - 做列表页到详细内容页的路由（router）
+ - 呈现详细内容（html）
+ - 呈现详细列表
+ - 添加细节
+ 
+ 
+ 
 ## 原理
 
 众所周知 setTimeout 或者 setInterval 调用的时候会有微小的误差。有人做了一个 [demo](https://bl.ocks.org/kenpenn/raw/92ebaa71696b4c4c3acd672b1bb3f49a/) 来观察这个现象并对其做了修正。短时间的误差倒也可以接受，但是作为一个长时间的倒计时，误差累计就会导致倒计时不准确。
