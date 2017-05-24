@@ -29,27 +29,15 @@ author: Andrew Xie
 npm install --save react-navigation
 npm install --save react-native-elements
 ```
-### 和后台进行通讯
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-### TODOS
- - 获取列表页，详细内容页信息
- - 做列表页到详细内容页的路由（router）
- - 呈现详细内容（html）
- - 呈现详细列表
+### 开发步骤
+ - 使用fetch获取列表页，详细内容页信息
+ - 使用react navigation中的StackNavigator，建立列表页到详细内容页的路由
+ - 呈现详细内容页面，处理html parsing问题
+ - 呈现列表页
  - 添加细节
+ - 添加列表页下拉刷新功能
  
  
 ### 完成后项目截图
