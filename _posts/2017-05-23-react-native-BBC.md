@@ -18,7 +18,7 @@ author: Andrew Xie
 - [Expo.js](https://expo.io/)：是在React Native基础上开发的。React Native使开发者可以同时在iOS，Android，桌面等平台进行开发，并且可共享80%
 以上的代码。与普通的hybrid技术不同，React Native开发的程序和原生程序的外观基本没有区别，但是却可以基本完全由javascript写成。使用Expo XDE使的创建React Native程序变得非常容易，并且可以随时使用手机端的Expo程序进行调试。Expo还加入了一些常用的库。
 
-关于适用Expo创建新项目的方法请参见：
+关于适用Expo创建新项目的方法请参见[https://andrewxiechina.github.io/2017/05/23/create-expo-project/](https://andrewxiechina.github.io/2017/05/23/create-expo-project/)。
 
 ### 安装常用库
 - [React Navigation](https://reactnavigation.org/docs/intro/):是React Native官方推荐的路由（navigation）解决方案。
