@@ -28,6 +28,6 @@ React Native使得软件升级变得更加容易，如果使用javascript外的�
 5. 除模拟器外，还可以选择直接在手机上观察开发效果。点击右上角的Share，打开手机端的Expo APP并扫描二维码。
 
 ### 调试选项
-在调试中，可以在模拟器上使用command＋D打开下图菜单，在手机上则可以摇动手机。其中｀Show Perf Monitor`可以显示帧率和内存使用等数据，而`Toggle Element Inspector`则有和Chrome开发者工具类似的功能，可以通过点击组件，显示组件长宽等，在调试中非常重要。
+在调试中，可以在模拟器上使用command＋D打开下图菜单，在手机上则可以摇动手机。其中`Show Perf Monitor`可以显示帧率和内存使用等数据，而`Toggle Element Inspector`则有和Chrome开发者工具类似的功能，可以通过点击组件，显示组件长宽等，在调试中非常重要。
 
 ![](https://github.com/andrewxiechina/andrewxiechina.github.io/blob/master/img/expo/menu_page.png?raw=true)
