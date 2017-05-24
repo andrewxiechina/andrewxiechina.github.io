@@ -24,7 +24,11 @@ author: Andrew Xie
 - [React Navigation](https://reactnavigation.org/docs/intro/):是React Native官方推荐的路由（navigation）解决方案。
 - [React Native Elements](https://react-native-training.github.io/react-native-elements/)：该库里面有一系列的常用组件，可以进行快速原型设计，和bootstrap的功能相似，并且有一个Grid系统。
 
-
+安装代码如下：
+```bash
+npm install --save react-navigation
+npm install --save react-native-elements
+```
 ### 和后台进行通讯
 
 
