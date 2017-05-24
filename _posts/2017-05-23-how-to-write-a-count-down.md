@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "前端如何写一个精确的倒计时"
-categories: JavaScript
-tags:  countdown JavaScript
-author: HyG
+title:  "通过项目学习React Native"
+categories: React
+tags:  ReactNative JavaScript Project
+author: Andrew Xie
 ---
 
 * content
 {:toc}
 
-关于写倒计时大家可能都都比较熟悉，使用 setTimeout 或 setInterval 就可以搞定。几秒钟或者几分钟的倒计时这样写没有问题，但是如果是长时间的倒计时，这样写就会不准确。如果用户修改了他的设备时间，这样的倒计时就没有意义了。今天就说说写一个精确的倒计时的方法。
-
-![](https://img.alicdn.com/tfs/TB18QnlOpXXXXcVXpXXXXXXXXXX-388-256.png)
+学习编程总是要通过各种各样的项目。在学习一个新的框架的阶段，最好的方法是做一批比较典型的项目，并积累一系列的代码库。下面是我将要做的一些程序以及关于这些程序的一些描述。
 
 
 
