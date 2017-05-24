@@ -1,1 +1,1 @@
-## Howto create images for post
+## How to create images for post
