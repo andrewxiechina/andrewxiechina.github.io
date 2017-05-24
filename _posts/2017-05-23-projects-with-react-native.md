@@ -32,8 +32,7 @@ author: Andrew Xie
  
 ### 完成后项目截图
 
-Copy Right
-[https://github.com/joeltrew/BBCNews-React-Native](https://github.com/joeltrew/BBCNews-React-Native)
+Copy Right：[https://github.com/joeltrew/BBCNews-React-Native](https://github.com/joeltrew/BBCNews-React-Native)
 
 ## 原理
 
