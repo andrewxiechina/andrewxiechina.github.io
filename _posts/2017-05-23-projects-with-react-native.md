@@ -11,7 +11,7 @@ author: Andrew Xie
 
 学习编程总是要通过各种各样的项目。在学习一个新的框架的阶段，最好的方法是做一批比较典型的项目，并积累一系列的代码库。下面是我将要做的一些程序以及关于这些程序的一些描述。
 
-## BBC NEWS
+## BBC NEWS 
 ![Example Image](https://github.com/andrewxiechina/andrewxiechina.github.io/blob/master/img/bbc_news.png?raw=true)
 
 ### 用到的第三方包
@@ -30,7 +30,11 @@ author: Andrew Xie
  - 添加细节
  
  
- 
+### 完成后项目截图
+
+Copy Right
+[https://github.com/joeltrew/BBCNews-React-Native](https://github.com/joeltrew/BBCNews-React-Native)
+
 ## 原理
 
 众所周知 setTimeout 或者 setInterval 调用的时候会有微小的误差。有人做了一个 [demo](https://bl.ocks.org/kenpenn/raw/92ebaa71696b4c4c3acd672b1bb3f49a/) 来观察这个现象并对其做了修正。短时间的误差倒也可以接受，但是作为一个长时间的倒计时，误差累计就会导致倒计时不准确。
