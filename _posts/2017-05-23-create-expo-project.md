@@ -22,10 +22,10 @@ React Native使得软件升级变得更加容易，如果使用javascript外的�
 3. 输入项目名称，选择存储位置，选择Blank模版，点击Create
 ![](https://github.com/andrewxiechina/andrewxiechina.github.io/blob/master/img/choose_template.png?raw=true)
 
-4. 在项目创建完成并启动后，开启模拟器，点击右上角的Device，选择Open on iOS Simulator (选择Open on Android可以打开模拟器或手机进行开发，但必须曾经使用该机器进行Android开发。如不成功，则请参见文档）。
+4. 在项目创建完成并启动后，开启模拟器，点击右上角的`Device`，选择`Open on iOS Simulator` (选择Open on Android可以打开模拟器或手机进行开发，但必须曾经使用该机器进行Android开发。如不成功，则请参见文档）。
 ![](https://github.com/andrewxiechina/andrewxiechina.github.io/blob/master/img/expo/simple_app.png?raw=true)
 
-5. 除模拟器外，还可以选择直接在手机上观察开发效果。点击右上角的Share，打开手机端的Expo APP并扫描二维码。
+5. 除模拟器外，还可以选择直接在手机上观察开发效果。点击右上角的`Share`，打开手机端的Expo APP并扫描二维码。
 
 ### 调试选项
 在调试中，可以在模拟器上使用command＋D打开下图菜单，在手机上则可以摇动手机。其中`Show Perf Monitor`可以显示帧率和内存使用等数据，而`Toggle Element Inspector`则有和Chrome开发者工具类似的功能，可以通过点击组件，显示组件长宽等，在调试中非常重要。
