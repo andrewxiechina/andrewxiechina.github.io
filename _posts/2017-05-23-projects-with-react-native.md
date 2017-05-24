@@ -38,6 +38,22 @@ Copy Right：[https://github.com/joeltrew/BBCNews-React-Native](https://github.c
 ## POKEMON
 ![](https://github.com/andrewxiechina/andrewxiechina.github.io/blob/master/img/pokemon_home.png?raw=true)
 
+### 用到的第三方包
+- Expo
+- React Navigation (Stack Navigation)
+- react-native-refreshable-listview
+- react-native-video
+- htmlparser
+- moment
+
+### TODOS
+ - 获取列表页，详细内容页信息
+ - 做列表页到详细内容页的路由（router）
+ - 呈现详细内容（html）
+ - 呈现详细列表
+ - 添加细节
+ 
+Copy Right：[https://github.com/VctrySam/Pokemon](https://github.com/VctrySam/Pokemon)
 
 ## 原理
 
