@@ -38,6 +38,13 @@ author: Andrew Xie
 Copy Right：[https://github.com/joeltrew/BBCNews-React-Native](https://github.com/joeltrew/BBCNews-React-Native)
 
 
+
+
+
+
+
+
+
 ## POKEMON
 ![](https://github.com/andrewxiechina/andrewxiechina.github.io/blob/master/img/pokemon_home.png?raw=true)
 
