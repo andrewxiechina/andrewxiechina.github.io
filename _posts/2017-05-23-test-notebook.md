@@ -8,5 +8,5 @@ author: Andrew Xie
 
 * content
 {:toc}
-{% include mycomponent.html %}
+{% include 03.01aSimpleData.html %}
 
